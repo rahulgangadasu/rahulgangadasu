@@ -2,7 +2,7 @@
 
 ### Senior Software Application Developer | Angular | React | TypeScript | Java | Spring Boot | Microservices | AWS
 
-I am a Senior Software Application Developer with 8+ years of experience building scalable, secure, and enterprise-grade web applications across frontend, backend, cloud, and database layers.
+I am a Senior Software Application Developer with experience in building scalable, secure, and enterprise-grade web applications across frontend, backend, cloud, and database layers.
 
 My work focuses on developing modern single-page applications using Angular, React, TypeScript, RxJS, NgRx, Redux Toolkit, and reusable component-based UI architecture. I also have strong backend experience with Java, Spring Boot, RESTful APIs, Microservices, Hibernate, JDBC, SQL databases, and AWS cloud services.
 
@@ -105,9 +105,19 @@ SQL and PL/SQL scripts focused on query optimization, stored procedures, trigger
 
 ## 📊 GitHub Stats
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulgangadasu&show_icons=true&theme=default)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahulgangadasu&show_icons=true&hide_border=true&theme=default&rank_icon=github&cache_seconds=86400" alt="Rahul's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgangadasu&layout=compact&hide_border=true&theme=default&langs_count=8&cache_seconds=86400" alt="Rahul's Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgangadasu&layout=compact&theme=default)
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=rahulgangadasu&theme=default&hide_border=true" alt="Rahul's GitHub Streak" />
+</p>
+
+<!--
+If the GitHub stats cards temporarily stop loading, it is usually due to the public stats service rate limit or outage, not your GitHub username.
+Your username is correct: rahulgangadasu
+-->
 
 ---
 
