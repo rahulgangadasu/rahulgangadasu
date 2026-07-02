@@ -14,7 +14,7 @@ I build scalable, secure, and enterprise-grade web applications across frontend,
 
 ## 👨‍💻 About Me
 
-I am a **Senior Software Application Developer** with experience in designing, developing, and delivering enterprise-grade applications across the complete Software Development Life Cycle.
+I am a **Senior Software Application Developer** with **8+ years of experience** designing, developing, and delivering enterprise-grade applications across the complete Software Development Life Cycle.
 
 My core strengths include building modern single-page applications using **Angular, React, TypeScript, JavaScript, RxJS, NgRx, Redux Toolkit, Angular Material, Material UI, HTML5, CSS3, and Bootstrap**.
 
@@ -81,7 +81,7 @@ I actively practice coding problems on LeetCode to strengthen my understanding o
 
 <p align="center">
   <a href="https://leetcode.com/u/Rahul_Gangadasu/">
-    <img src="https://leetcard.jacoblin.cool/Rahul_Gangadasu?theme=light&font=Inter&ext=heatmap" alt="Rahul Gangadasu LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Rahul_Gangadasu?theme=light&amp;font=Inter&amp;ext=heatmap" alt="Rahul Gangadasu LeetCode Stats" />
   </a>
 </p>
 
@@ -98,20 +98,27 @@ I actively practice coding problems on LeetCode to strengthen my understanding o
 
 ## 📊 GitHub Activity
 
-<!-- Clean version: stacked cards, no squeezed side-by-side layout, and no icon-heavy logo section. -->
-
 <p align="center">
   <a href="https://github.com/rahulgangadasu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulgangadasu&amp;theme=github&amp;v=2" alt="Rahul Gangadasu GitHub Profile Summary" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rahulgangadasu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulgangadasu&amp;theme=github&amp;v=2" alt="Top Languages by Repository" />
+  </a>
+  <a href="https://github.com/rahulgangadasu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulgangadasu&amp;theme=github&amp;v=2" alt="Top Languages by Commit" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rahulgangadasu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulgangadasu&amp;theme=github&amp;v=2" alt="Rahul Gangadasu GitHub Stats" />
+  </a>
+  <a href="https://github.com/rahulgangadasu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulgangadasu&amp;theme=github&amp;utcOffset=-6&amp;v=2" alt="Rahul Gangadasu Productive Time" />
   </a>
 </p>
 
