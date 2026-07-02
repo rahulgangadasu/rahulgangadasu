@@ -102,19 +102,16 @@ I actively practice coding problems on LeetCode to strengthen my understanding o
 
 <p align="center">
   <a href="https://github.com/rahulgangadasu">
-    <img src="https://github-readme-stats.vercel.app/api?username=rahulgangadasu&show_icons=false&hide_border=true&theme=transparent&include_all_commits=true&cache_seconds=86400" alt="Rahul Gangadasu GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rahulgangadasu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgangadasu&layout=compact&hide_border=true&theme=transparent&langs_count=8&cache_seconds=86400" alt="Rahul Gangadasu Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rahulgangadasu">
-    <img src="https://streak-stats.demolab.com?user=rahulgangadasu&theme=transparent&hide_border=true" alt="Rahul Gangadasu GitHub Streak" />
   </a>
 </p>
 
